@@ -1,0 +1,14 @@
+{
+	"description": "<p>Mozicsillag: Köszöntünk az online filmek és online sorozatok közösségében.<p><a href=\"https://mozicsillag.cc\">https://mozicsillag.cc</a>",
+	"author": "bloggs, Murdock", 
+	"homepage": "https://www.patreon.com/murdock",
+	"title": "Mozicsillag.cc",
+	"synopsis": "Mozicsillag.cc: Köszöntünk az online filmek és online sorozatok közösségében.",
+	"version": "0.0.4",
+        "file": "mozicsillag.js",
+	"showtimeVersion": "4.9.389",
+	"type": "ecmascript",
+	"id": "mozicsillag.me",
+	"category": "video",
+	"icon": "logo.png"
+}

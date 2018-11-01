@@ -1,0 +1,7 @@
+*
+*/*
+!.gitignore
+!logo.png
+!mozicsillag.js
+!plugin.json
+*/
